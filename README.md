@@ -59,7 +59,7 @@ PaperLens AI converts any text-based PDF into a fully narrated, captioned explai
 
 **Sample Input/Output:**
 
-**Input:** ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762) (Vaswani et al., 2017)
+**Input:** ["Attention Is All You Need"](https://arxiv.org/pdf/1706.03762) (Vaswani et al., 2017)
 
 **Output:** ~3 min narrated explainer video with:
 - ✅ Section title overlays (Introduction, Methodology, Discussion, Conclusion)
