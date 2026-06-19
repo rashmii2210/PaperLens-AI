@@ -53,13 +53,15 @@ PaperLens AI converts any text-based PDF into a fully narrated, captioned explai
 
 > Upload a PDF → AI reads it → generates a script → narrates it → assembles a captioned video.
 
-https://github.com/user-attachments/assets/dc1b2892-bcd8-429c-9299-5ab420a86c66
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/dc1b2892-bcd8-429c-9299-5ab420a86c66" width="600" controls></video>
+</p>
 
 **Sample Input/Output:**
 
+**Input:** ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762) (Vaswani et al., 2017)
+
 ```
-Input  → "Attention Is All You Need" (Vaswani et al., 2017)
-         https://arxiv.org/abs/1706.03762
 Output → ~3 min narrated explainer video with:
          ✅ Section title overlays (Introduction, Methodology, Discussion, Conclusion)
          ✅ Word-synced captions
