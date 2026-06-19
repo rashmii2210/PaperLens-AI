@@ -52,7 +52,10 @@ PaperLens AI converts any text-based PDF into a fully narrated, captioned explai
 ## ✨ Demo
 
 > Upload a PDF → AI reads it → generates a script → narrates it → assembles a captioned video.
-
+> 
+<p align="center">
+  <strong>🔊 Note: Click the volume icon on the player to unmute the video narration!</strong>
+</p>
 <p align="center">
   <video src="https://github.com/user-attachments/assets/001631e4-8694-47ed-b480-9f8c241a3b96" width="500" controls></video>
 </p>
