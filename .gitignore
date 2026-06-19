@@ -1,0 +1,70 @@
+#PYTHON / RUNTIME DEPENDENCIES
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.poetry/
+
+#ENVIRONMENT SECURITY (NEVER COMMIT PRIVACY KEYS)
+.env
+.env.*
+!.env.example
+
+#NODE / FRONTEND DEPENDENCIES & BUILDS
+node_modules/
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+.eslintcache
+
+#APP-SPECIFIC GENERATED CONTENT & MEDIA RUNTIMES
+# Generated job outputs (created at runtime by Celery)
+jobs/
+audio/
+output/
+backend/jobs/
+backend/audio/
+backend/output/
+
+# Vector store persistence
+chroma_db/
+backend/chroma_db/
+
+# Universal media asset blocks
+*.mp3
+*.wav
+*.mp4
+*.avi
+*.mkv
+*.pdf
+
+# Allow specific sample assets to be committed for the README/demo
+!docs/**/*.pdf
+!docs/**/*.mp4
+!assets/**/*.gif
+!assets/**/*.png
+
+# MoviePy runtime temp files
+*TEMP_MPY_*.mp4
+*TEMP_MPY_*.mp3
+final_videoTEMP_MPY_wvf_snd.mp4
+
+#OPERATING SYSTEM RUNTIME ARTIFACTS
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+#IDE / EDITOR SETTINGS
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
