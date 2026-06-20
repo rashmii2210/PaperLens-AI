@@ -15,6 +15,10 @@ PaperLens AI converts any text-based PDF into a fully narrated, captioned explai
 [![LangChain](https://img.shields.io/badge/LangChain-RAG-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com)
 [![Groq](https://img.shields.io/badge/Groq-LLaMA_3.3-F55036?style=for-the-badge)](https://groq.com)
 
+---
+
+**Built by [Rashmi Manani](https://github.com/rashmii2210)**
+
 </div>
 
 ---
