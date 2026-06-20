@@ -281,7 +281,7 @@ Contributions are welcome! Here's how to get started:
 
 ```bash
 # Fork the repo, then:
-git clone https://github.com/your-username/PaperLens-AI.git
+git clone https://github.com/rashmii2210/PaperLens-AI.git
 git checkout -b feature/your-feature-name
 
 # Make your changes, then:
